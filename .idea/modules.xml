@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Administrator\Desktop\AddressPickerLib-master\AddressPicker.iml" filepath="C:\Users\Administrator\Desktop\AddressPickerLib-master\AddressPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AddressPickerLib-master.iml" filepath="$PROJECT_DIR$/AddressPickerLib-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addresspickerlib/addresspickerlib.iml" filepath="$PROJECT_DIR$/addresspickerlib/addresspickerlib.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\AddressPickerLib-master\addresspickerlib\addresspickerlib.iml" filepath="C:\Users\Administrator\Desktop\AddressPickerLib-master\addresspickerlib\addresspickerlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\AddressPickerLib-master\app\app.iml" filepath="C:\Users\Administrator\Desktop\AddressPickerLib-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
